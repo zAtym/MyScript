@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Steam GIF MAKER
-// @namespace    *steamcommunity.com/
+// @namespace    http://steamcommunity.com/profiles/76561198147778326/
 // @version      0.4
 // @description  Get awesome steam gif avatar!
 // @author       Majid
-// @match        *://steamcommunity.com/id/*
+// @match        http://steamcommunity.com/profiles/76561198147778326/
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // @grant       GM_addStyle
-// @match        *://steamcommunity.com/id/*
+// @match        http://steamcommunity.com/profiles/76561198147778326/
 // @grant GM_getValue
 // @grant GM_setValue
 // ==/UserScript==
